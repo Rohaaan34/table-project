@@ -1,0 +1,16 @@
+thead th{
+    background-color: grey;
+    padding: 6px 12px 6px 12px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+    
+}
+td{
+    padding: 6px 12px 6px 12px;
+}
+tfoot th{
+background-color: grey;
+text-align: left;
+padding: 6px 12px 6px 12px;
+}
